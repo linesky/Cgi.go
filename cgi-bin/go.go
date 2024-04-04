@@ -3,5 +3,5 @@ package main
 import "fmt"
 
 func main(){
-	fmt.Printf("hello world\n");
+	fmt.Printf("<html><body bgcolor='blue'>Hello, world</body><html>");
 }
